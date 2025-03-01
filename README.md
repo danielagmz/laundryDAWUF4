@@ -12,7 +12,7 @@
 * HTML5
 * CSS3
 
-* usando git
+* usando git y restricciones de github
 
 
 ---
