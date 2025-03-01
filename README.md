@@ -1,5 +1,5 @@
 # laundry management system
-
+Christian Torres (Col·laborador)
 ---
 ## Using Tech:
 
