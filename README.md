@@ -1,4 +1,5 @@
 # laundry management system
+Daniela gamez propietari
 Christian Torres (Col·laborador)
 ---
 ## Using Tech:
